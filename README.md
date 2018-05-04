@@ -1,9 +1,9 @@
 # BookManager（图书管理系统）
 ### 项目时间：2018．1 – 2018．4（个人独立完成）	
 ### 项目介绍：
-&ensp;&ensp;技术：Swing + JDBC + Mysql  
+&ensp;&ensp;技术：Swing + JDBC + 
 
-&ensp;&ensp;开发工具：Eclipse + WindowBuilder插件  
+&ensp;&ensp;开发工具：Eclipse + WindowBuilder插件 + Mysql可视化工具（SQLyog）
 
 ### 主要功能：
 &ensp;&ensp;1.借助WindowBuilder插件完成界面开发；  
